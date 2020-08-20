@@ -1,2 +1,2 @@
-# project_one
-Data Science Project 1 
+# project
+Data Science
